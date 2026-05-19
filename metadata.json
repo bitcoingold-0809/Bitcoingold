@@ -1,0 +1,6 @@
+{
+  "name": "Hero Defense Tactics: Realms Clash",
+  "description": "A dynamic tower defense game with RPG hero progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
